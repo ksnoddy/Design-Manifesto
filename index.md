@@ -24,7 +24,7 @@ In this design document, I will be explaining my main takeaways along with my ow
 - **Design for Wellbeing**
     - For this assignment, we were assigned to design a website that reacts to the user’s emotions to promote wellbeing. My group achieved this my designing a website that took the user’s level of joy listening to different music genres. From there, the website would provide the user with a recommendation for a new music genre to look into. This assignment allowed me to get an understanding of coding in javascript, as well as the significance of understanding how a computer can analyze the user’s emotion just from their facial expressions. Although affectiva was not the most accurate, we were able to take the user’s overall experience with listening to different music genres to provide them with new genres to explore. For more information, please visit the medium post below. 
     - [Link to Design for Wellbeing]( https://medium.com/@kendog95/design-for-wellbeing-60bdd01745e7)
-- **Conclusion**
-    - Throughout my time in this course, I had learned new design philosophies. These philosophies are found in the various projects done above. I have taken these skills of brainstorming and designing a final product to develop 5 major steps of a design process. My conclusion and further explanations of the 5 design processes can be found in the design document below on medium. 
-    - [Link to Conclusion]( https://medium.com/@kendog95/design-manifesto-b84324e99018)
+## Conclusion
+Throughout my time in this course, I had learned new design philosophies. These philosophies are found in the various projects done above. I have taken these skills of brainstorming and designing a final product to develop 5 major steps of a design process. My conclusion and further explanations of the 5 design processes can be found in the design document below on medium. 
+[Link to Conclusion]( https://medium.com/@kendog95/design-manifesto-b84324e99018)
 
