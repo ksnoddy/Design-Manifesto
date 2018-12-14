@@ -20,8 +20,8 @@ In this design document, I will be explaining my main takeaways along with my ow
     - [Link to Design for Understanding](https://cs3041-18b.github.io/designs/datavis_assn.html)
 - **Design for Tension**
     - For this assignment, we were assigned to create a chatbot that tackles a tense topic in our world today. Our chatbot tackled the tense topic of renewable energy sources to strive to inform the people who do believe in the use of renewables with new information on different renewable energy sources. The chatbot also tried to sway the opinion of those who do not believe in the use of renewables by providing them with important facts about the need for the switch. This assignment allowed me to understand the overall flow of conversations between the user and the chatbot as well as the importance of making the chatbot as realistic as possible so that the user feels more comfortable. For more information, please visit the medium post below.
-- [Link to Design for Tension]( https://medium.com/@kendog95/design-for-tension-1911845406a1)
+    - [Link to Design for Tension]( https://medium.com/@kendog95/design-for-tension-1911845406a1)
 - **Design for Wellbeing**
     - For this assignment, we were assigned to design a website that reacts to the user’s emotions to promote wellbeing. My group achieved this my designing a website that took the user’s level of joy listening to different music genres. From there, the website would provide the user with a recommendation for a new music genre to look into. This assignment allowed me to get an understanding of coding in javascript, as well as the significance of understanding how a computer can analyze the user’s emotion just from their facial expressions. Although affectiva was not the most accurate, we were able to take the user’s overall experience with listening to different music genres to provide them with new genres to explore. For more information, please visit the medium post below. 
-- [Link to Design for Wellbeing]( https://medium.com/@kendog95/design-for-wellbeing-60bdd01745e7)
+    - [Link to Design for Wellbeing]( https://medium.com/@kendog95/design-for-wellbeing-60bdd01745e7)
 
