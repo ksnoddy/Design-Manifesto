@@ -27,5 +27,5 @@ In this design document, I will be explaining my main takeaways along with my ow
     
 ## Conclusion
 Throughout my time in this course, I had learned new design philosophies. These philosophies are found in the various projects done above. I have taken these skills of brainstorming and designing a final product to develop 5 major steps of a design process. My conclusion and further explanations of the 5 design processes can be found in the design document below on medium. 
-[Link to Conclusion]( https://medium.com/@kendog95/design-manifesto-b84324e99018)
+- [Link to Conclusion]( https://medium.com/@kendog95/design-manifesto-b84324e99018)
 
